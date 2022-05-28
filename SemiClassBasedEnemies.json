@@ -2,9 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "MysteryinCedarCrossingsNPCsFull",
-				"abbreviation": "MCCNPCF",
-				"full": "Some Semi Class-Based Enemies",
+				"json": "SemiClassBasedEnemies",
+				"abbreviation": "SCBE",
+				"full": "Semi Class-Based Enemies",
 				"url": "",
 				"authors": [
 					"BillE4214",
