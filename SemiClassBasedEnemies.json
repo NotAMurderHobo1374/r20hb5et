@@ -23,7 +23,7 @@
 				"M"
 			],
 			"type": "humanoid",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"alignment": [
 				"N",
 				"E"
@@ -159,7 +159,7 @@
 		},
 		{
 			"name": "Death Priest",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"size": [
 				"M"
 			],
@@ -264,7 +264,7 @@
 		},
 		{
 			"name": "Death Researcher",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"size": [
 				"M"
 			],
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "Discount Assassin",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"size": [
 				"M"
 			],
@@ -423,7 +423,7 @@
 		},
 		{
 			"name": "Mastermind Rogue",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"size": [
 				"M"
 			],
@@ -512,7 +512,7 @@
 		},
 		{
 			"name": "Mercenary",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"size": [
 				"M"
 			],
@@ -580,7 +580,7 @@
 		},
 		{
 			"name": "Shadow Rogue",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"size": [
 				"M"
 			],
@@ -669,7 +669,7 @@
 		},
 		{
 			"name": "Vampiric Sorcerer",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"size": [
 				"M"
 			],
@@ -795,7 +795,7 @@
 		},
 		{
 			"name": "Hemomancer",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"page": 217,
 			"reprintedAs": [
 				"Necromancer Wizard|MPMM"
@@ -933,7 +933,7 @@
 				"M"
 			],
 			"type": "humanoid",
-			"source": "MysteryinCedarCrossingsNPCsFull",
+			"source": "SemiClassBasedEnemies",
 			"alignment": [
 				"N",
 				"E"
